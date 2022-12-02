@@ -68,5 +68,12 @@
 1. 主題: Selection Sort 
 2. 主題: 二維陣列實作
 3. 主題: 二維陣列輸出
-4. 主題: 矩陣加法
-5. 主題: 矩陣乘法
+4. 主題: array add up
+5. 主題: array multiplied
+
+# week13
+1. topic: Fibonacci series
+2. topic: function(return a+b)
+3. topic: function(return input value)
+4. topic：Write the function below the main 
+5. topic: arry clockwise rotation
