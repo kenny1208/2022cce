@@ -65,11 +65,11 @@
 5. 主題: 泡泡排序
 
 # week12
-1. 主題: Selection Sort 
-2. 主題: 二維陣列實作
-3. 主題: 二維陣列輸出
-4. 主題: array add up
-5. 主題: array multiplied
+1. Topic: Selection Sort 
+2. Topic: Make 2D array
+3. Topic: Print 2D array 
+4. Topic: Array add up
+5. Topic: Array multiplied
 
 # week13
 1. Topic: Fibonacci series
