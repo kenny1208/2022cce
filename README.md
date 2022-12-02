@@ -72,8 +72,8 @@
 5. 主題: array multiplied
 
 # week13
-1. topic: Fibonacci series
-2. topic: function(return a+b)
-3. topic: function(return input value)
-4. topic：Write the function below the main 
-5. topic: arry clockwise rotation
+1. Topic: Fibonacci series
+2. Topic: Function(return a+b)
+3. Topic: Function(return input value)
+4. Topic：Write the function below the main 
+5. Topic: Arry clockwise rotation
